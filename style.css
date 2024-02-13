@@ -1,0 +1,37 @@
+.bx{
+  text-align: center;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+.tlt{
+  background-color: #FF5BA0;
+  color:#FFFFFF;
+  margin-top: 0px;
+  padding: 4px;
+}
+body{
+  margin: 0px;
+  padding:0px;
+}
+
+button{
+  color: #FFFFFF;
+  border-radius: 4px;
+  border-color: #1C99D359;
+}
+.y {
+  background-color: #1C99D3;
+}
+.n{
+  background-color: #D31C1C;
+}
+
+img{
+  height: 80px;
+  margin-top: 38px;
+  margin-bottom: 0px;
+}
